@@ -1,0 +1,26 @@
+body{
+    font-family: 'Arima', cursive;
+}
+section{
+    display: flex;
+    padding: 10px;
+}
+#Welcom{
+    font-size: 50px;
+}
+#World{
+    font-size: 40px;
+}
+spen{
+    color: orange;
+}
+button{
+    background-color: orange;
+    width: 80px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+}
